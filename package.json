@@ -6,6 +6,6 @@
 		"nodemon": "^3.1.9"
 	},
 	"scripts": {
-		"watch": "nodemon server.js"
+		"watch": "nodemon task2.js"
 	}
 }
